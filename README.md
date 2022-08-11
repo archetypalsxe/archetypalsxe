@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I do as much work as I can on [GitLab](https://gitlab.com/archetypalsxe) after the Micro$oft takeover of GitHub
+
 <!--
 **archetypalsxe/archetypalsxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
